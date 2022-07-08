@@ -118,7 +118,7 @@ def reset(nice,mean,name):
 
 
 from PIL import Image
-myImage = Image.open("C:/Users/19718/Documents/Student_Portfolio/JS/images/blotter2.jpg");
+myImage = Image.open("./images/blotter2.jpg");
 myImage.show();
 
 
