@@ -1,13 +1,10 @@
-# Python_Projects
-
 <h1> Basic Python Projects </h1>
 
 <p> These are basic projects written in Python. They use various modules such as tkinter or sqlite3. </p>
 
 <h2> Projects: </h2>
 
-<ul>
-  Phonebook
+<ul>Phonebook,</ul>
   Check Files Gui
   Transfer Files
   Hotel website
