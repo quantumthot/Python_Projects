@@ -4,7 +4,7 @@
 
 <h2> Projects: </h2>
 
-<ul>Phonebook,</ul>
+<li>Phonebook</li>
   Check Files Gui
   Transfer Files
   Hotel website
